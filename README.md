@@ -1,6 +1,6 @@
 # Jwt Springboot Reactjs Token Authentication Example - React.js Spring Security Login
 
-Tutorial Link: (https://loizenai.com/reactjs-springboot-jwt-token-authentication/)[https://loizenai.com/reactjs-springboot-jwt-token-authentication/]
+Tutorial Link: https://loizenai.com/reactjs-springboot-jwt-token-authentication/
 
 ![Jwt-springboot-reactjs-token-authentication-example](https://loizenai.com/wp-content/uploads/2020/11/Reactjs-SpringBoot-Jwt-Token-Authentication-Example.png)
 
@@ -104,7 +104,7 @@ It includes 8 components and 2 services and a router in app.js file.
 
 – Reactjs Admin page:
 
-[Reactjs Admin page](https://loizenai.com/wp-content/uploads/2020/11/Reactjs-jwt-authentication-admin-page-3.png)
+![Reactjs Admin page](https://loizenai.com/wp-content/uploads/2020/11/Reactjs-jwt-authentication-admin-page-3.png)
 
 ## Realated post
 
