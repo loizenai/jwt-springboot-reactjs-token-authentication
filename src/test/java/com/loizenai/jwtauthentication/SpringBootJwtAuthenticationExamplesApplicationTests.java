@@ -8,6 +8,6 @@ class SpringBootJwtAuthenticationExamplesApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("OKI");
 	}
-
 }
