@@ -8,6 +8,6 @@ class SpringBootJwtAuthenticationExamplesApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("Just Change the Output Test");
+		System.out.println("Just Change the Output Test - Good Job");
 	}
 }
